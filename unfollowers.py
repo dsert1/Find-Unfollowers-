@@ -78,5 +78,3 @@ if __name__ == '__main__':
 
     bot.get_unfollowers()
     bot.driver.close()
-
-
