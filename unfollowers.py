@@ -1,6 +1,6 @@
 # @author: Deniz Sert
 # @newest-version: August 2020
-# @change-log: Added function docs
+# @change-log: Cleaned function docs
 
 from selenium import webdriver
 from time import sleep
